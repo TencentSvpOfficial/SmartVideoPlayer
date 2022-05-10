@@ -1,7 +1,7 @@
 It is permitted that distribution of this Android video player SDK in binary form only is free on Maven Central and GitHub.
 Copyright (C) 2019 THL A29 Limited, a Tencent company.  All rights reserved.
 
-Redistribution of the Android TBS SDK in binary form only on Maven Central and GitHub is permitted provided that the following conditions are met:
+Redistribution of the Android svpplayer SDK in binary form only on Maven Central and GitHub is permitted provided that the following conditions are met:
 
 1. Redistribution in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 
